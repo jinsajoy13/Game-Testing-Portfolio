@@ -41,7 +41,6 @@ The main objective was to validate core game functionalities, identify potential
 ## 🛠️ Tools & Technologies
 
 - TestRail (test case management)
-- Fiddler (for network monitoring and debugging)
 - PC & Tablet for cross-device checks
 
 ## 💬 Summary
